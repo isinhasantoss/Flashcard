@@ -61,7 +61,7 @@ backface-visibility: hidden;
 }
 
 
-.cartao:active .cartao_conteudo{
+.cartao.active .cartao_conteudo{
     transform: rotateY(180deg);
 }
 
